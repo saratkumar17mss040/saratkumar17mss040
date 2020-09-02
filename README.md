@@ -2,7 +2,7 @@
 #### Javascript enthusiast
 ![Javascript enthusiast](https://images.unsplash.com/photo-1501159599894-155982264a55?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80)
 
-I am currently pursuing Msc(ss) - 4th year at skasc
+I am currently pursuing Msc(ss) - 4th year at skasc. <br>
 I am interested in full stack web developement ! <br>
 My hobbies include coding  👨‍💻, cooking 👨‍🍳, listening to music 🎵
 
