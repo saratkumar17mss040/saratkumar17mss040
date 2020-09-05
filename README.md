@@ -6,7 +6,7 @@ I am currently pursuing Msc(ss) - 4th year at skasc. <br>
 I am interested in full stack web developement ! <br>
 My hobbies include coding  👨‍💻, cooking 👨‍🍳, listening to music 🎵
 
-Skills: HTML <img src='https://image.flaticon.com/icons/svg/226/226269.svg' alt='html5' height='20'> / CSS <img src='' alt='css' height='20'> / SASS <img src='' alt='css' height='20'> / JS <img src='' alt='css' height='20'> / BOOTSTRAP <img src='' alt='css' height='20'> / JQUERY <img src='' alt='css' height='20'> / REACTJS <img src='' alt='css' height='20'> / BABEL <img src='' alt='css' height='20'> / WEBPACK <img src='' alt='css' height='20'> / PYTHON <img src='' alt='css' height='20'> / JAVA <img src='' alt='css' height='20'> / PHP <img src='' alt='css' height='20'> / ORACLE DB <img src='' alt='css' height='20'> / MYSQL <img src='' alt='css' height='20'>
+Skills: HTML <img src='https://image.flaticon.com/icons/svg/226/226269.svg' alt='html5' height='10'> / CSS <img src='' alt='css' height='20'> / SASS <img src='' alt='css' height='20'> / JS <img src='' alt='css' height='10'> / BOOTSTRAP <img src='' alt='css' height='20'> / JQUERY <img src='' alt='css' height='20'> / REACTJS <img src='' alt='css' height='20'> / BABEL <img src='' alt='css' height='20'> / WEBPACK <img src='' alt='css' height='20'> / PYTHON <img src='' alt='css' height='20'> / JAVA <img src='' alt='css' height='20'> / PHP <img src='' alt='css' height='20'> / ORACLE DB <img src='' alt='css' height='20'> / MYSQL <img src='' alt='css' height='20'>
 
 - 🌱 I’m currently learning Reactjs 
 - 👯 I’m looking to collaborate on Javascript based projects 
