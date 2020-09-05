@@ -6,7 +6,7 @@ I am currently pursuing Msc(ss) - 4th year at skasc. <br>
 I am interested in full stack web developement ! <br>
 My hobbies include coding  👨‍💻, cooking 👨‍🍳, listening to music 🎵
 
-Skills: HTML [<img src='https://image.flaticon.com/icons/svg/226/226269.svg' alt='html5'>] / CSS  / SASS / JS / BOOTSTRAP / JQUERY / REACTJS / BABEL / WEBPACK  / PYTHON / JAVA / PHP / ORACLE DB / MYSQL
+Skills: HTML [<img src='https://image.flaticon.com/icons/svg/226/226269.svg' alt='html5' height='40'>] / CSS  / SASS / JS / BOOTSTRAP / JQUERY / REACTJS / BABEL / WEBPACK  / PYTHON / JAVA / PHP / ORACLE DB / MYSQL
 
 - 🌱 I’m currently learning Reactjs 
 - 👯 I’m looking to collaborate on Javascript based projects 
