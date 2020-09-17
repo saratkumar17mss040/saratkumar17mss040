@@ -11,7 +11,7 @@ Skills: HTML <img src='https://image.flaticon.com/icons/svg/226/226269.svg' alt=
 - 🌱 I’m currently learning React/Redux
 - 👯 I’m looking to collaborate on Javascript based projects 
 - 🤔 I’m looking for help with indexedDB 
-- 📫 How to reach me: sarathdon9245@gmail.com 
+- 📫 How to reach me: sarathdon9245@gmail.com / sarathkumaru17mss040@skasc.ac.in
 - ⚡ Fun fact: Almost any powered with electricity needs to be coded. Can you imagine?! 
 
 
