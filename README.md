@@ -14,6 +14,9 @@ Skills: HTML <img src='https://image.flaticon.com/icons/svg/226/226269.svg' alt=
 - 📫 How to reach me: sarathdon9245@gmail.com / sarathkumaru17mss040@skasc.ac.in
 - ⚡ Fun fact: Almost any powered with electricity needs to be coded. Can you imagine?! 
 
+License
+
+All projects in my repository are MIT licensed.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/saratkumar17mss040)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sarath-kumar-216b031b5//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/saratkumar17mss040)  
 
