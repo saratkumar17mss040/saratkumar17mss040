@@ -10,7 +10,8 @@ Skills: HTML <img src='https://image.flaticon.com/icons/svg/226/226269.svg' alt=
 
 Online coding challenge platforms profile:
 
-Codewars badge URL: <img  src='https://www.codewars.com/users/sarathkumar/badges/large' />
+Codewars badge 
+<img  src='https://www.codewars.com/users/sarathkumar/badges/large' />
 
 Codewars: https://www.codewars.com/users/sarathkumar  
 Edabit:   https://edabit.com/user/j2ugW5ihGv67sfh4e
