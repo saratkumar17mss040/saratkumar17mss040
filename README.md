@@ -17,7 +17,7 @@ Codewars badge
 Codewars: https://www.codewars.com/users/sarathkumar  
 Edabit:   https://edabit.com/user/j2ugW5ihGv67sfh4e
 
-- 🌱 I’m currently learning React / D3.js
+- 🌱 I’m currently learning Node js
 - 👯 I’m looking to collaborate on Javascript based projects 
 - 🤔 I’m looking for help with indexedDB 
 - 📫 How to reach me: sarathdon9245@gmail.com / sarathkumaru17mss040@skasc.ac.in
