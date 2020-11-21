@@ -15,7 +15,7 @@ Codewars badge
 <img  src='https://www.codewars.com/users/sarathkumar/badges/large' />
 
 Codewars: https://www.codewars.com/users/sarathkumar  
-Edabit:   https://edabit.com/user/j2ugW5ihGv67sfh4e
+Edabit:   https://edabit.com/user/j2ugW5ihGv67sfh4e  
 Leetcode: https://leetcode.com/saratkumar17mss040/
 
 - 🌱 I’m currently learning Node js
