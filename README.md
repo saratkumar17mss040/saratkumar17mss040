@@ -1,6 +1,7 @@
 ### Hi there 👋, My name is Sarathkumar
 #### Javascript enthusiast
-![Javascript enthusiast](https://images.unsplash.com/photo-1501159599894-155982264a55?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80)
+
+# Live to Make and Make to live !
 
 <h4> I am currently pursuing Msc(ss) - 4th year at skasc. </h4> <br>
 <h4> I am interested in full stack web development ! </h4> <br>
