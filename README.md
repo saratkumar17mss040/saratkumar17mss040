@@ -36,4 +36,6 @@ All projects in my repository are MIT licensed.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=saratkumar17mss040&show_icons=true)  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarath&layout=compact)](https://github.com/sarath/github-readme-stats)
+
 ![Profile views](https://gpvc.arturio.dev/saratkumar17mss040)  
