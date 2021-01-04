@@ -1,11 +1,10 @@
 # Hi there 👋, My name is Sarathkumar
 ## Javascript enthusiast
-Live to make and Make to live !
 
+Live to make and Make to live !
 <h3> I am currently pursuing Msc(ss) - 4th year at SKASC </h3> 
 <h3> I am interested in full stack web development </h3> <br>
 <h3> My hobbies include coding  👨‍💻, cooking 👨‍🍳, listening to music 🎵 </h3>
-
 
 # Skills: 
 
