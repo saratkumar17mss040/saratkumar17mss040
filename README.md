@@ -6,7 +6,7 @@ Live to make and make to live !
 <h3> My hobbies include coding  👨‍💻, cooking 👨‍🍳, listening to music 🎵 </h3>
 
 # Skills: 
-
+<span>
 <img align="left" alt="Html" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/> 
 <img align="left" alt="Css" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/> 
 <img align="left" alt="JavaScript" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/> 
@@ -18,6 +18,7 @@ Live to make and make to live !
 <img align="left" alt="Python" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/> 
 <img align="left" alt="Android" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"/> 
 <br/> <br/>
+</span>
 
 Online coding challenge platforms profile:
 
