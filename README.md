@@ -2,7 +2,6 @@
 ## Javascript enthusiast
 
 Live to make and make to live !
-<h3> I am interested in full stack web development </h3> <br>
 <h3> My hobbies include coding  👨‍💻, cooking 👨‍🍳, listening to music 🎵 </h3>
 
 # Skills: 
